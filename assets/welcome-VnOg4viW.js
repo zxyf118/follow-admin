@@ -1,0 +1,1 @@
+import{_ as e,c,o}from"./index-BXRoTRPN.js";const t={},n={class:"app-container ub ub-ac ub-pc home",style:{"line-height":"calc(100vh - 168px)",color:"#000","font-size":"30px"}};function s(a,r){return o(),c("div",n," 欢迎使用后台管理系统. ")}const l=e(t,[["render",s]]);export{l as default};

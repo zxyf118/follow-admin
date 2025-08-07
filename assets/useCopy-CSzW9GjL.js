@@ -1,0 +1,1 @@
+import{b_ as r}from"./index-BXRoTRPN.js";function i(){function n(e,t="复制成功"){if(!e){r.warning("内容为空，无法复制");return}navigator.clipboard.writeText(String(e)).then(()=>{r.success(t)}).catch(()=>{r.error("复制失败，请手动复制")})}return{copyText:n}}export{i as u};
